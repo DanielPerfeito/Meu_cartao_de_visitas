@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+
+}
+
+.card{
+    width: 400px;
+    height: 200px;
+    background-image: url(backgrouds/gray-withe.jpg);
+    background-size: cover;
+    margin: auto;
+    margin-top: 15%;
+    padding: 1px 20px;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    margin-bottom: -10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    line-height: 35px;
+}
+
+li{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold; 
+    margin-top: 1px;
+}
+
+#insta{
+    list-style-image: url(imagens/instagram-24.png);
+}
+
+#github{
+    list-style-image: url(imagens/github-24.png);
+}
+
+ #linkedin{
+    list-style-image: url(imagens/linkedin-24.png);
+}
+
